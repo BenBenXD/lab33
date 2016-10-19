@@ -11,6 +11,7 @@ public class ListElement
 		this.data=0;
 		this.next=null;
 		this.previous=null;
+		
 	}
 		/**
 		 * @param data
