@@ -25,4 +25,5 @@ public class ListElement
 	public int getdata() {
 		return this.data;
 	}
+	
 }
